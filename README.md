@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/karuhi/karuhi/master/images/Vanilla-1s-285px.gif" alt="" height="150px"/>
+<img src="https://raw.githubusercontent.com/karuhi/karuhi/master/images/karuhi.gif" alt="" height="150px"/>
 
 Welcome to my presence on the web. 
 
